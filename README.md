@@ -21,7 +21,7 @@
 
 ```js
 document.write("Hello World");
-Developer dev = new Developer(Shrey Garg);
+Developer dev = new Developer(Bighnesh Kumar Sahoo);
 const Sagar = {
     pronouns: "he" | "his",
     status: Student,
