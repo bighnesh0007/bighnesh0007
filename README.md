@@ -1,16 +1,16 @@
 <div align="center" width="50">
 
 <!--<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ShreyGrg03" alt="Hello Coders" width="70%"/>--> <br>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" href="https://github.com/ShreyGrg03" alt="Mario"  width="94%"/><br> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" href="https://github.com/bighnesh0007" alt="Mario"  width="94%"/><br> 
   
 <p><strong> Busy coding & Vibing to :  </strong></p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&redirect=true) <br>
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=ShreyGrg03)
+![Totals Hits](https://komarev.com/ghpvc/?username=bighnesh0007)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SH-GR-grey?style=flat&logo=telegram)](https://t.me/Ak_Kappor) <br>
+[![telegram badge](https://img.shields.io/badge/Bignesh-Sahoo-?style=flat&logo=telegram)](https://t.me/bighnesh007) <br>
 </div>
 <hr></hr>
 
@@ -63,7 +63,7 @@ if(succeed == false){
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Kotlin & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies, Travel or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Sh⚡Gr](https://t.me/Ak_Kappor)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[B🌟gh💻esh](https://t.me/bighnesh007)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Reading Stack Overflow answers burns **5 calorie per min**.
 
 Hi , I am a full-stack developer named Bighnesh Kumar Sahoo, working on various projects, including an Express app, a resume analyzer in Next.js, and a cricket-themed website. You're also focused on agriculture-related solutions, like AgriVision and a Seasonal Crop Planner, utilizing AI and data scraping techniques. You prefer a consistent coding style and enjoy working with TypeScript, Tailwind CSS, and ShadCN components. If there’s anything specific you’d like to share or update, let me know!
