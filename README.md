@@ -1,3 +1,18 @@
+<div align="center" width="50">
+
+<!--<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ShreyGrg03" alt="Hello Coders" width="70%"/>--> <br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" href="https://github.com/ShreyGrg03" alt="Mario"  width="94%"/><br> 
+  
+<p><strong> Busy coding & Vibing to :  </strong></p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&redirect=true) <br>
+
+
+![Totals Hits](https://komarev.com/ghpvc/?username=ShreyGrg03)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SH-GR-grey?style=flat&logo=telegram)](https://t.me/Ak_Kappor) <br>
+</div>
+
 # 💫 About Me:
 Hi , I am a full-stack developer named Bighnesh Kumar Sahoo, working on various projects, including an Express app, a resume analyzer in Next.js, and a cricket-themed website. You're also focused on agriculture-related solutions, like AgriVision and a Seasonal Crop Planner, utilizing AI and data scraping techniques. You prefer a consistent coding style and enjoy working with TypeScript, Tailwind CSS, and ShadCN components. If there’s anything specific you’d like to share or update, let me know!
 
@@ -25,60 +40,3 @@ Hi , I am a full-stack developer named Bighnesh Kumar Sahoo, working on various 
 [![](https://visitcount.itsvg.in/api?id=bighnesh0007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
