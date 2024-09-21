@@ -91,4 +91,40 @@ Hi , I am a full-stack developer named Bighnesh Kumar Sahoo, working on various 
 ---
 [![](https://visitcount.itsvg.in/api?id=bighnesh0007&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### ⚙ Commits Streak 
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bighnesh0007&theme=radical">
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">-->
+</p>
+
+
+___
+
+### Coding Stats
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 1 hr 42 mins
+
+CSS    1 hr 10 mins    █████████████████▒░░░░░░░   68.74 %
+HTML   32 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+```
+
+----
+
+<img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
+
+## 🔗 Connect with me
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bighnesh18/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+</a>
+
+
+ 
+ 
+</div>  
+<!--END_SECTION:waka-->
