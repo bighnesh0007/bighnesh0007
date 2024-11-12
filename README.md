@@ -20,7 +20,7 @@
 
 ```js
 document.write("Hello World");
-Developer dev = new Developer(Shrey Garg);
+Developer dev = new Developer(Bighnesh kumar Sahoo);
 const Sagar = {
     pronouns: "he" | "his",
     status: Student,
@@ -32,7 +32,7 @@ const Sagar = {
     },
     editors: [VS Code, Vim, PyCharm, Nano],
     learning: [Kali Linux, c++],
-    contact: shreygarg1230@gmail.com
+    contact: bighneshkumarsahoo58@gmail.com
 };
 
 if(succeed == false){
