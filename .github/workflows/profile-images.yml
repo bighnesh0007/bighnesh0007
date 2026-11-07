@@ -28,12 +28,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - run: cp profile-3d-contrib/*.svg dist/
+      # snk runs in a container and leaves dist/ owned by root, so collect into a fresh folder.
+      - run: mkdir site && cp dist/*.svg profile-3d-contrib/*.svg site/
 
       # Published to a separate branch so the daily regeneration never adds commits to main.
       - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
