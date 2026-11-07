@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Bighnesh%20Kumar%20Sahoo&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Real-Time%20Systems&descSize=16&descAlignY=58" width="100%" alt="Bighnesh Kumar Sahoo" />
+<img src="./assets/header.svg" width="100%" alt="Bighnesh Kumar Sahoo — Full-Stack Developer" />
 
 <a href="https://github.com/bighnesh0007">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+full-stack+products+in+TypeScript;Real-time+dashboards+with+live+data;Computer+vision+that+runs+on+your+machine;Developer+tools+that+respect+your+privacy" alt="Typing intro" />
@@ -28,6 +28,15 @@ I'm a full-stack developer who likes building things end to end — from the dat
 - ⚡ **Real-time systems:** live timing feeds, WebSockets, streaming state
 - 🐧 **Linux at heart:** I enjoy working close to the OS — compositors, PTYs, shells
 - 💬 **Ask me about:** DataWeave, Formula 1, or anything Linux
+
+---
+
+## 🔭 Right now
+
+- 🧩 Growing **[DWCode](https://dwcode.vercel.app)** — contests and AI-assisted hints for DataWeave learners
+- 🏎️ Shipping live GPS-accurate track maps in **F1 Live**
+- 🫥 Verifying screencast exclusion for **InviTerminal** on KDE Plasma 6
+- 🤝 Open to full-stack roles, freelance work and interesting collaborations
 
 ---
 
@@ -149,14 +158,8 @@ An intraday NSE trading bot with risk-governed execution, broker-side OCO stop-l
 
 ---
 
-## 🎧 Coding to
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify now playing" />
-</a>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
+<sub>Thanks for stopping by — feel free to reach out about a project, a role or Formula 1. 🏁</sub>
 
 </div>
