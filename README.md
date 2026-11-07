@@ -1,130 +1,162 @@
-<div align="center" width="50">
-
-<!--<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/ShreyGrg03" alt="Hello Coders" width="70%"/>--> <br>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" href="https://github.com/bighnesh0007" alt="Mario"  width="94%"/><br> 
-  
-<p><strong> Busy coding & Vibing to :  </strong></p>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&redirect=true) <br>
-
-
-![Totals Hits](https://komarev.com/ghpvc/?username=bighnesh0007)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Bignesh-Sahoo-?style=flat&logo=telegram)](https://t.me/bighnesh007) <br>
-</div>
-<hr></hr>
-
-### About me 
-
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
-
-```js
-document.write("Hello World");
-Developer dev = new Developer(Bighnesh kumar Sahoo);
-const Sagar = {
-    pronouns: "he" | "his",
-    status: Student,
-    technologies: {
-        frontEnd: [HTML, CSS, SASS, Javascript, React],
-        backEnd: [Node.js, Express.js, Mongoose.js, Python],
-        dataBase: [MongoDB, SQL]
-        libraries: [Bootstrap, JQuery]
-    },
-    editors: [VS Code, Vim, PyCharm, Nano],
-    learning: [Kali Linux, c++],
-    contact: bighneshkumarsahoo58@gmail.com
-};
-
-if(succeed == false){
-    tryagain();
-}else{
-    party();
-};
-```
----
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-</p>
-
----
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Kotlin & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Movies, Travel or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[B🌟gh💻esh](https://t.me/bighnesh007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Reading Stack Overflow answers burns **5 calorie per min**.
-
-Hi , I am a full-stack developer named Bighnesh Kumar Sahoo, working on various projects, including an Express app, a resume analyzer in Next.js, and a cricket-themed website. You're also focused on agriculture-related solutions, like AgriVision and a Seasonal Crop Planner, utilizing AI and data scraping techniques. You prefer a consistent coding style and enjoy working with TypeScript, Tailwind CSS, and ShadCN components. If there’s anything specific you’d like to share or update, let me know!
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bighnesh8517) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bigh.nesh18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bighnesh18/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Metero JS](https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bighnesh0007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bighnesh0007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bighnesh0007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bighnesh0007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bighnesh0007&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=bighnesh0007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### ⚙ Commits Streak 
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bighnesh0007&theme=radical">
-<!--<img src="https://activity-graph.herokuapp.com/graph?username=Sagar-Sharma-7&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">-->
-</p>
-
-
-___
-
-### Coding Stats
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 1 hr 42 mins
-
-CSS    1 hr 10 mins    █████████████████▒░░░░░░░   68.74 %
-HTML   32 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
-```
-
-----
-
-<img src = "https://github.com/SohaHussain/SohaHussain/blob/main/github-contribution-grid-snake.svg"/>
-
-## 🔗 Connect with me
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bighnesh18/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Bighnesh%20Kumar%20Sahoo&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Real-Time%20Systems&descSize=16&descAlignY=58" width="100%" alt="Bighnesh Kumar Sahoo" />
 
+<a href="https://github.com/bighnesh0007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=I+build+full-stack+products+in+TypeScript;Real-time+dashboards+with+live+data;Computer+vision+that+runs+on+your+machine;Developer+tools+that+respect+your+privacy" alt="Typing intro" />
 </a>
 
+<p>
+  <a href="https://b18-orcin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bighnesh18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/BighneshKumar18"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:bighneshkumarsahoo58@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
- 
- 
-</div>  
-<!--END_SECTION:waka-->
+<img src="https://komarev.com/ghpvc/?username=bighnesh0007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## 👋 About me
+
+I'm a full-stack developer who likes building things end to end — from the database schema to the pixel on screen.
+
+- 🛠️ **Mostly TypeScript:** Next.js, React, Node/Express, MongoDB, Redis, Docker
+- 🤖 **AI & computer vision:** MediaPipe, OpenCV, LLM-assisted tooling
+- ⚡ **Real-time systems:** live timing feeds, WebSockets, streaming state
+- 🐧 **Linux at heart:** I enjoy working close to the OS — compositors, PTYs, shells
+- 💬 **Ask me about:** DataWeave, Formula 1, or anything Linux
+
+---
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [DWCode](https://github.com/bighnesh0007/dwcode)
+A LeetCode-style practice platform for **MuleSoft DataWeave** — problems, a live playground, contests and AI-assisted learning.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[**🌐 Live demo**](https://dwcode.vercel.app) · [Code](https://github.com/bighnesh0007/dwcode)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ [F1 Live](https://github.com/bighnesh0007/F1)
+A real-time Formula 1 companion: live timing tower, track map with every car, battle tracker, race alerts, standings and replays — all from real data.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[Code](https://github.com/bighnesh0007/F1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🫥 [InviTerminal](https://github.com/bighnesh0007/InviTerminal)
+A developer terminal that asks the compositor to keep its window **out of screen capture** — then verifies it actually did. Snippet library, live transcript and Ask-AI threads.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE_Wayland-1D99F3?style=flat-square&logo=kde&logoColor=white)
+
+[Code](https://github.com/bighnesh0007/InviTerminal)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ [Snap Vanish](https://github.com/bighnesh0007/gmeetEffects)
+Snap your fingers on camera and **disintegrate into dust** in Google Meet — snap again to reappear. Portable, no admin rights, all models run locally.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+[Code](https://github.com/bighnesh0007/gmeetEffects)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📈 Algorithmic trading bot <sub>(private)</sub>
+An intraday NSE trading bot with risk-governed execution, broker-side OCO stop-losses, backtests and an n8n-driven paper forward test. Safe by default — dry-run unless explicitly enabled.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,bash&theme=dark" alt="Languages" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs&theme=dark" alt="Frontend" />
+
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,mongodb,redis,postgres&theme=dark" alt="Backend and data" />
+
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI and ML" />
+
+**DevOps & tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,linux,vscode,postman,figma&theme=dark" alt="DevOps and tools" />
+
+</div>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bighnesh0007/bighnesh0007/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bighnesh0007/bighnesh0007/output/profile-gitblock.svg" />
+  <img alt="Contribution calendar, stats and languages" src="https://raw.githubusercontent.com/bighnesh0007/bighnesh0007/output/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bighnesh0007/bighnesh0007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bighnesh0007/bighnesh0007/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bighnesh0007/bighnesh0007/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🎧 Coding to
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bkkjetdj42j2dr3hhqn7umymni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify now playing" />
+</a>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
+
+</div>
